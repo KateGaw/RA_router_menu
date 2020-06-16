@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/tskq7fywclcse03j?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-router-menu)
 
 https://kategaw.github.io/RA_router_menu/
 
